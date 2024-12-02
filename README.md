@@ -16,10 +16,3 @@ The packages are dispatched into the following stacks:
 
 ## Requirements
 - Python 3.x
-
-## Running the Code
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/package-sorter.git
-   cd package-sorter
